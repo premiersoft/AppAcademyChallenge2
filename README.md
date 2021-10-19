@@ -34,7 +34,7 @@ Para ~~complicar~~ te ajudar, disponibilizaremos os seguintes fatos:
 - o instrutor de **API .NET** é mais novo do que o instrutor do **iOS**
 - a idade do instrutor de **iOS** é um número primo
 - o primeiro nome do instrutor de **API .NET** tem 3 vogais
-- a última letra do primeiro nome do instrutor de **API .NET** é a letra "l"
+- a última letra do último nome do instrutor de **API .NET** é a letra "k"
 - a primeira letra do último nome do instrutor de **iOS** é a letra "V"
 - a idade dos instrutores é um número ímpar
 - os instrutores nasceram na mesma década
